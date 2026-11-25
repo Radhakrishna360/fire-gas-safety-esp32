@@ -77,3 +77,14 @@ Marella Radha Krishna
 Electronics and Communication Engineering
 
 Interested in Embedded Systems, IoT and Firmware Development.
+
+## System Diagrams
+
+### System Architecture
+[View System Architecture](diagrams/system_architecture.md)
+
+### System Flowchart
+[View System Flowchart](diagrams/flowchart.md)
+
+### State Machine Diagram
+[View State Machine Diagram](diagrams/state_machine.md)
