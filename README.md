@@ -88,3 +88,7 @@ Interested in Embedded Systems, IoT and Firmware Development.
 
 ### State Machine Diagram
 [View State Machine Diagram](diagrams/state_machine.md)
+
+## Circuit Diagram
+
+![ESP32 Fire and Gas Safety System Circuit Diagram](images/circuit_diagram.png)
